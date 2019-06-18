@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2010\Projects\TP8-AlanisPablo\TP8-AlanisPablo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2010\Projects\TP8-AlanisPablo\TP8-AlanisPablo\bin\Debug\TP8-AlanisPablo.exe
+c:\users\usuario\documents\visual studio 2010\Projects\TP8-AlanisPablo\TP8-AlanisPablo\bin\Debug\TP8-AlanisPablo.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\TP8-AlanisPablo\TP8-AlanisPablo\obj\x86\Debug\TP8-AlanisPablo.exe
+c:\users\usuario\documents\visual studio 2010\Projects\TP8-AlanisPablo\TP8-AlanisPablo\obj\x86\Debug\TP8-AlanisPablo.pdb
